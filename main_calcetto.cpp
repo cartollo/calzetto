@@ -140,7 +140,7 @@ string sn;
 string data;
  int j=3;
 while (j<matricebuone.size() && j>0){
-   cout<<"Vuoi che ti proponga un'altra partita? (s/n) ";
+   cout<<"Vuoi che ti proponga un'altra partita? (s/n) "<<endl;
    cin>>sn;
    cout<<endl;
    if (sn=="s"){
@@ -170,7 +170,7 @@ if (sn=="s") partita.snakesort();
 int commentscout=0;
 int comb=-1,golA,golB;
 char commento[500];
-cout<<"Quale combinazione di squadre avete scelto? (numero) ";
+cout<<"Quale combinazione di squadre avete scelto? (numero) "<<endl;
 cin>>comb;
 cout<<endl;
 if(comb<0 or comb>matricebuone.size()){
@@ -211,17 +211,17 @@ if(comb==0){
 if(comb>0) { for(int i=0;i<9;i++) row[i]= matricebuone[comb-1][i];}
 
 partita.pronostico(row);
-cout<< "Hai già giocato la partita? (s/n) ";
+cout<< "Hai già giocato la partita? (s/n) "<<endl;
 cin>>sn;
 cout<<endl;
 if (sn!="s") return 0;
-cout<<"In quale data? (gg/mm/aa) ";
+cout<<"In quale data? (gg/mm/aa) "<<endl;
 cin>>data; 
 cout<<endl;
-cout<<"Punteggio finale della squadra A: ";
+cout<<"Punteggio finale della squadra A: "<<endl;
 cin>>golA;
 cout<<endl;
-cout<<"Punteggio finale della squadra B: ";
+cout<<"Punteggio finale della squadra B: "<<endl;
 cin>>golB;
 cout<<endl;
 for(int i=0;i<10;i++){
@@ -229,13 +229,13 @@ for(int i=0;i<10;i++){
   gol[i]=partita.get_score();
 }
 cout<<endl;
-cout<<"Commenti sulla partita? (s/n) ";
+cout<<"Commenti sulla partita? (s/n) "<<endl;
 cin>>sn;
 
 if (sn=="s"){
 commentscout=1;
 cout<<endl;
-cout<<"Scivi le note da ricordare: ";
+cout<<"Scivi le note da ricordare: "<<endl;
 cin.getline (commento,500);
 cin.getline (commento,500);
 }

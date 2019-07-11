@@ -635,15 +635,15 @@ return;
 void  match::score(int i){
  goal=0;
  string giocatore = giocatori[i].get_nome();
- cout<<"Quanti gol ha segnato "<<giocatori[i].get_nome()<<"? ";
+ cout<<"Quanti gol ha segnato "<<giocatori[i].get_nome()<<"? "<<endl;
  cin>>goal; 
  if (giocatore=="Gio" && goal>0){ 
-   cout<<"Fermi tutti! Non ci credo!! chi l'ha preso da GIO!? ";
+   cout<<"Fermi tutti! Non ci credo!! chi l'ha preso da GIO!? "<<endl;
    for (int i=0;i<goal;i++){
      cin>>babbo;
      babbi.push_back(babbo);
      if (i<goal-1) 
-       cout<<"E poi?! ";
+       cout<<"E poi?! "<<endl;
    }
  }
 return;
@@ -755,7 +755,7 @@ void match::team_maker (int* j,int* k,int* l,int* m){
    cout<<giocatori[i].get_numero()<<" "<<giocatori[i].get_nome()<<endl;
                       }
  cout<<endl;
- cout<< "Inserisci ID dei giocatori di una delle due squadre: ";
+ cout<< "Inserisci ID dei giocatori di una delle due squadre: "<<endl;
  for(int i=0;i<comp;i++) cin>>squadra[i];
 
 
