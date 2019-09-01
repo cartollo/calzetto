@@ -1,23 +1,23 @@
 
 Giocatore         Vel Tec Att Dif Tot Cl Rol
 
-1  01 Yun         84  67  73  75  75  B  Fas  5  
-0  02 Liber       80  73  72  73  75  B  Fas  3  
-1  03 Gio         58  63  64  68  63  E  Dif  5  
-0  04 Miky        60  76  72  73  70  C  Dif  4  
-1  05 Paolo       67  71  68  73  70  C  Dif  3  
-0  06 Teffa       56  63  62  57  60  E  Att  3  
-0  07 Davide      82  88  88  84  86  A  Att  2  
+1  01 Yun         85  67  73  76  75  B  Fas  5  
+0  02 Liber       79  73  72  72  74  C  Fas  3  
+0  03 Gio         57  63  64  67  63  E  Dif  5  
+1  04 Miky        59  76  72  72  70  C  Dif  4  
+1  05 Paolo       68  71  68  74  70  C  Dif  3  
+1  06 Teffa       57  63  62  58  60  E  Att  3  
+1  07 Davide      83  88  88  85  86  A  Att  2  
 1  08 Fabian      87  76  81  79  81  A  Fas  2  
-0  09 Dario       79  59  64  66  67  D  Fas  3  
+1  09 Dario       78  59  64  65  67  D  Fas  3  
 1  10 Carmine     67  75  74  73  72  C  Att  1  
-0  11 Gianlu      59  61  61  62  61  E  Dif  2  
+1  11 Gianlu      60  61  61  63  61  E  Dif  2  
 0  12 Jacca       77  66  64  55  66  D  Att  3  
-1  13 Danicas     68  71  75  77  73  C  Fas  1  
-1  14 Fabris      84  78  78  72  78  B  Fas  2  
+0  13 Danicas     67  71  75  76  72  C  Fas  1  
+0  14 Fabris      84  78  78  72  78  B  Fas  2  
 0  15 Ema         68  79  79  71  74  C  Att  5  
 0  16 Jose        65  60  63  60  62  E  Att  4  
-1  17 Simone      69  82  80  73  76  B  Att  2  
+0  17 Simone      69  82  80  73  76  B  Att  2  
 0  18 Lorenzo     72  58  61  58  62  E  Fas  1  
 1  19 Gabriele    80  90  89  79  85  A  Att  0  
 0  20 Mereu       74  85  80  70  77  B  Att  3  
@@ -29,6 +29,6 @@ Giocatore         Vel Tec Att Dif Tot Cl Rol
 0  26 Dani        66  75  73  76  73  C  Dif  4  
 0  27 Marcos      75  74  74  75  75  B  Att  2  
 0  97 Ospite1     78  66  64  56  66  D  Att  1  
-1  98 Ospite2     69  70  69  70  70  C  Nan  1  
+0  98 Ospite2     69  70  69  70  70  C  Nan  1  
 0  99 Ospite3     70  70  70  70  70  C  Nan  1  
 0
