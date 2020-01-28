@@ -1,23 +1,23 @@
 
 Giocatore         Vel Tec Att Dif Tot Cl Rol
 
-1  01 Yun         85  69  76  75  76  B  Fas  5  
+1  01 Yun         84  69  75  74  76  B  Fas  5  
 0  02 Liber       79  73  72  72  74  C  Fas  3  
-1  03 Gio         60  62  64  67  63  E  Dif  5  
-1  04 Miky        61  74  72  73  70  C  Dif  4  
-0  05 Paolo       65  70  68  70  68  D  Dif  3  
-1  06 Teffa       59  62  62  58  60  E  Att  3  
-1  07 Davide      85  84  87  84  85  A  Att  2  
+1  03 Gio         59  62  63  66  63  E  Dif  5  
+0  04 Miky        61  74  72  73  70  C  Dif  4  
+1  05 Paolo       64  70  67  69  68  D  Dif  3  
+0  06 Teffa       59  62  62  58  60  E  Att  3  
+1  07 Davide      86  84  88  85  86  A  Att  2  
 0  08 Fabian      86  76  79  80  80  A  Fas  2  
-0  09 Dario       76  58  62  64  65  D  Fas  3  
-1  10 Carmine     67  79  77  74  74  C  Att  1  
-1  11 Gianlu      56  60  60  61  59  F  Dif  2  
+1  09 Dario       77  58  63  65  66  D  Fas  3  
+1  10 Carmine     68  79  78  75  75  B  Att  1  
+1  11 Gianlu      57  60  61  62  60  E  Dif  2  
 0  12 Jacca       79  67  64  58  67  D  Att  3  
-1  13 Danicas     68  72  75  77  73  C  Fas  1  
+1  13 Danicas     67  72  74  76  72  C  Fas  1  
 0  14 Fabris      81  79  78  71  77  B  Fas  2  
-0  15 Ema         68  80  80  72  75  B  Att  5  
+1  15 Ema         67  80  79  71  74  C  Att  5  
 0  16 Jose        65  61  64  60  63  E  Att  4  
-1  17 Simone      69  82  79  74  76  B  Att  2  
+0  17 Simone      69  82  79  74  76  B  Att  2  
 0  18 Lorenzo     72  58  61  58  62  E  Fas  1  
 0  19 Gabriele    82  92  90  81  86  A  Att  0  
 0  20 Mereu       74  85  80  70  77  B  Att  3  
@@ -26,7 +26,7 @@ Giocatore         Vel Tec Att Dif Tot Cl Rol
 0  23 Verrini     74  75  72  78  75  B  Dif  1  
 0  24 Andrea      74  77  73  78  76  B  Dif  2  
 0  25 Yaris       82  92  91  80  86  A  Att  3  
-1  26 Dani        65  75  73  76  72  C  Dif  4  
+1  26 Dani        66  75  74  77  73  C  Dif  4  
 0  27 Marcos      75  74  74  75  75  B  Att  2  
 0  97 Ospite1     74  84  79  69  77  B  Att  1  
 0  98 Ospite2     69  70  69  70  70  C  Nan  1  
