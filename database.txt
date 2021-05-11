@@ -1,25 +1,25 @@
 
   Giocatore       PG    Win    Loss   Draw    Wi%    Lo%    Dr%    GF*    MG*     GFs   GSs    DRs    Gio 
 
-  01 Yun          49     24     22      3     49     45      6     67    1.37    355    343     12      1    
-  02 Liber        30     11     17      2     37     57      7     46    1.53    201    218    -17      0    
-  03 Gio          46     23     19      4     50     41      9     18    0.39    346    321     25      1    
+  01 Yun          51     25     23      3     49     45      6     68    1.33    372    359     13      1    
+  02 Liber        31     12     17      2     39     55      6     50    1.61    213    226    -13      0    
+  03 Gio          48     24     20      4     50     42      8     21    0.44    363    337     26      1    
   04 Miky         33     14     16      3     42     48      9     32    0.97    216    216      0      1    
-  05 Paolo        43     15     23      5     35     53     12     53    1.23    289    305    -16      3    
-  06 Teffa        19      7      9      3     37     47     16     10    0.53    118    132    -14      1    
-  07 Davide       49     23     21      5     47     43     10    154    3.14    351    351      0      2    
-  08 Fabian       33     16     13      4     48     39     12     49    1.48    244    223     21      0    
-  09 Dario        34     11     19      4     32     56     12     37    1.09    228    259    -31      0    
-  10 Carmine      50     24     21      5     48     42     10     52    1.04    364    358      6      3    
-  11 Gianlu       48     21     24      3     44     50      6     57    1.19    328    343    -15      8    
+  05 Paolo        44     15     24      5     34     55     11     55    1.25    297    317    -20      3    
+  06 Teffa        20      7     10      3     35     50     15     11    0.55    122    141    -19      1    
+  07 Davide       50     24     21      5     48     42     10    155    3.1    363    359      4      2    
+  08 Fabian       35     16     15      4     46     43     11     52    1.49    256    244     12      1    
+  09 Dario        35     12     19      4     34     54     11     39    1.11    237    263    -26      0    
+  10 Carmine      52     26     21      5     50     40     10     56    1.08    385    370     15      3    
+  11 Gianlu       50     22     25      3     44     50      6     59    1.18    344    360    -16      8    
   12 Jacca         5      4      1      0     80     20      0      9    1.8     33     28      5      0    
-  13 Danicas      10      6      2      2     60     20     20     14    1.4     75     65     10      0    
-  14 Fabris       30     15     13      2     50     43      7     37    1.23    221    218      3      0    
+  13 Danicas      11      6      3      2     55     27     18     14    1.27     79     74      5      0    
+  14 Fabris       32     16     14      2     50     44      6     40    1.25    237    235      2      0    
   15 Ema          16      7      7      2     44     44     13     24    1.5    118    121     -3      1    
   16 Jose          1      1      0      0    100      0      0      3      3      7      5      2      0    
-  17 Simone       15      7      7      1     47     47      7     27    1.8    119    125     -6      0    
+  17 Simone       16      7      8      1     44     50      6     30    1.88    127    137    -10      2    
   18 Lorenzo       1      0      1      0      0    100      0      0      0      3      7     -4      0    
-  19 Gabriele     15     10      5      0     67     33      0     46    3.07    130    111     19      0    
+  19 Gabriele     16     11      5      0     69     31      0     51    3.19    139    115     24      0    
   20 Mereu         0      0      0      0      0      0      0      0      0      0      0      0      0    
   21 Marco         2      1      0      1     50      0     50      1    0.5     15     14      1      0    
   22 Riccardo      1      0      1      0      0    100      0      0      0     11     16     -5      0    
@@ -31,6 +31,8 @@
   97 Ospite1       3      2      1      0     67     33      0      6      2     24     22      2      0    
   98 Ospite2       1      0      1      0      0    100      0      2      2     10     12     -2      0    
   99 Ospite3       3      1      2      0     33     67      0      2    0.67     19     21     -2      1    
+    
+    
     
     
     
@@ -2311,6 +2313,98 @@ Statistiche aggiornate: Difesa, Attacco, Tecnica, Corsa.
   17 Simone      70  83  80  75  77  B  Att  
   18 Lorenzo     72  58  61  58  62  E  Fas  
   19 Gabriele    82  92  90  81  86  A  Att  
+  20 Mereu       74  85  80  70  77  B  Att  
+  21 Marco       77  68  72  74  73  C  Fas  
+  22 Riccardo    58  65  65  66  64  E  Dif  
+  23 Verrini     74  75  72  78  75  B  Dif  
+  24 Andrea      74  77  73  78  76  B  Dif  
+  25 Yaris       82  92  91  80  86  A  Att  
+  26 Dani        66  75  74  77  73  C  Dif  
+  27 Marcos      75  74  74  75  75  B  Att  
+  97 Ospite1     74  84  79  69  77  B  Att  
+  98 Ospite2     69  70  69  70  70  C  Nan  
+  99 Ospite3     65  69  69  70  68  D  Nan  
+
+27/09/20
+Squadra A gol= 8              		   Squadra B gol= 12
+Fabian    gol= 2  (A) [81] {Fas}           Davide    gol= 1  (A) [84] {Att}           
+Yun       gol= 1  (B) [78] {Fas}           Fabris    gol= 2  (B) [77] {Fas}           
+Simone    gol= 3  (B) [77] {Att}           Carmine   gol= 3  (C) [73] {Att}           
+Paolo     gol= 2  (D) [68] {Dif}           Liber     gol= 4  (C) [72] {Fas}           
+Gio       gol= 2  (E) [61] {Dif}           Gianlu    gol= 2  (E) [62] {Dif}           
+
+Corsa:-3     Tecnica:-10     Attacco:-8     Difesa:4     Totale:-17     
+
+doppietta di gio nella partita della settimana dopo a simone, ma nessuno si ricorda squadre o punteggio
+
+Statistiche aggiornate: Difesa, Corsa, Attacco, Tecnica.
+
+  Giocatore      Vel Tec Att Dif Tot Cl Rol
+
+  01 Yun         85  70  76  75  77  B  Fas  
+  02 Liber       78  72  71  71  73  C  Fas  
+  03 Gio         56  59  60  63  60  E  Dif  
+  04 Miky        61  74  72  73  70  C  Dif  
+  05 Paolo       63  69  66  68  67  D  Dif  
+  06 Teffa       59  62  62  58  60  E  Att  
+  07 Davide      85  83  87  84  85  A  Att  
+  08 Fabian      86  76  79  80  80  A  Fas  
+  09 Dario       77  58  63  65  66  D  Fas  
+  10 Carmine     67  78  77  74  74  C  Att  
+  11 Gianlu      60  63  64  65  63  E  Dif  
+  12 Jacca       80  68  65  59  68  D  Att  
+  13 Danicas     68  73  75  77  73  C  Fas  
+  14 Fabris      82  80  79  72  78  B  Fas  
+  15 Ema         67  80  79  71  74  C  Att  
+  16 Jose        65  61  64  60  63  E  Att  
+  17 Simone      69  82  79  74  76  B  Att  
+  18 Lorenzo     72  58  61  58  62  E  Fas  
+  19 Gabriele    82  92  90  81  86  A  Att  
+  20 Mereu       74  85  80  70  77  B  Att  
+  21 Marco       77  68  72  74  73  C  Fas  
+  22 Riccardo    58  65  65  66  64  E  Dif  
+  23 Verrini     74  75  72  78  75  B  Dif  
+  24 Andrea      74  77  73  78  76  B  Dif  
+  25 Yaris       82  92  91  80  86  A  Att  
+  26 Dani        66  75  74  77  73  C  Dif  
+  27 Marcos      75  74  74  75  75  B  Att  
+  97 Ospite1     74  84  79  69  77  B  Att  
+  98 Ospite2     69  70  69  70  70  C  Nan  
+  99 Ospite3     65  69  69  70  68  D  Nan  
+
+09/05/21
+Squadra A gol= 9              		   Squadra B gol= 4
+Gabriele  gol= 5  (A) [86] {Att}           Fabian    gol= 1  (A) [80] {Fas}           
+Yun               (B) [77] {Fas}           Fabris    gol= 1  (B) [78] {Fas}           
+Carmine   gol= 1  (C) [74] {Att}           Danicas           (C) [73] {Fas}           
+Dario     gol= 2  (D) [66] {Fas}           Gianlu            (E) [63] {Dif}           
+Gio       gol= 1  (E) [60] {Dif}           Teffa     gol= 1  (E) [60] {Att}           
+
+Corsa:12     Tecnica:3     Attacco:7     Difesa:6     Totale:28     
+
+Statistiche aggiornate: Tecnica, Difesa, Attacco, Corsa.
+
+  Giocatore      Vel Tec Att Dif Tot Cl Rol
+
+  01 Yun         86  71  77  76  78  B  Fas  
+  02 Liber       78  72  71  71  73  C  Fas  
+  03 Gio         57  60  61  64  61  E  Dif  
+  04 Miky        61  74  72  73  70  C  Dif  
+  05 Paolo       63  69  66  68  67  D  Dif  
+  06 Teffa       58  61  61  57  59  F  Att  
+  07 Davide      85  83  87  84  85  A  Att  
+  08 Fabian      85  75  78  79  79  B  Fas  
+  09 Dario       78  59  64  66  67  D  Fas  
+  10 Carmine     68  79  78  75  75  B  Att  
+  11 Gianlu      59  62  63  64  62  E  Dif  
+  12 Jacca       80  68  65  59  68  D  Att  
+  13 Danicas     67  72  74  76  72  C  Fas  
+  14 Fabris      81  79  78  71  77  B  Fas  
+  15 Ema         67  80  79  71  74  C  Att  
+  16 Jose        65  61  64  60  63  E  Att  
+  17 Simone      69  82  79  74  76  B  Att  
+  18 Lorenzo     72  58  61  58  62  E  Fas  
+  19 Gabriele    83  93  91  82  87  A  Att  
   20 Mereu       74  85  80  70  77  B  Att  
   21 Marco       77  68  72  74  73  C  Fas  
   22 Riccardo    58  65  65  66  64  E  Dif  
