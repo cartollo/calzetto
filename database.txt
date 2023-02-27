@@ -1,20 +1,20 @@
 
   Giocatore       PG    Win    Loss   Draw    Wi%    Lo%    Dr%    GF*    MG*     GFs   GSs    DRs    Gio 
 
-  01 Yun          63     31     26      6     49     41     10     88    1.4    453    430     23      3    
+  01 Yun          64     31     27      6     48     42      9     90    1.41    459    439     20      3    
   02 Liber        32     12     18      2     38     56      6     50    1.56    218    233    -15      2    
-  03 Gio          59     29     24      6     49     41     10     31    0.53    438    406     32      2    
+  03 Gio          60     29     25      6     48     42     10     31    0.52    444    415     29      2    
   04 Miky         37     15     17      5     41     46     14     35    0.95    241    239      2      1    
   05 Paolo        50     19     25      6     38     50     12     57    1.14    343    354    -11      5    
-  06 Teffa        26      8     12      6     31     46     23     11    0.42    158    179    -21      2    
-  07 Davide       61     30     23      8     49     38     13    185    3.03    435    427      8      4    
-  08 Fabian       46     20     19      7     43     41     15     66    1.43    330    311     19      2    
-  09 Dario        42     14     22      6     33     52     14     47    1.12    277    312    -35      4    
-  10 Carmine      64     32     24      8     50     38     13     63    0.98    464    443     21      5    
-  11 Gianlu       61     27     29      5     44     48      8     72    1.18    410    426    -16     10    
+  06 Teffa        27      9     12      6     33     44     22     12    0.44    167    185    -18      2    
+  07 Davide       62     31     23      8     50     37     13    190    3.06    444    433     11      4    
+  08 Fabian       47     21     19      7     45     40     15     68    1.45    339    317     22      2    
+  09 Dario        43     14     23      6     33     53     14     47    1.09    283    321    -38      4    
+  10 Carmine      65     33     24      8     51     37     12     64    0.98    473    449     24      5    
+  11 Gianlu       62     27     30      5     44     48      8     76    1.23    416    435    -19     10    
   12 Jacca         6      4      2      0     67     33      0     10    1.67     38     35      3      0    
   13 Danicas      16      8      6      2     50     38     13     17    1.06    104    105     -1      0    
-  14 Fabris       43     19     19      5     44     44     12     55    1.28    301    306     -5      0    
+  14 Fabris       44     19     20      5     43     45     11     55    1.25    307    315     -8      0    
   15 Ema          16      7      7      2     44     44     13     24    1.5    118    121     -3      1    
   16 Jose          1      1      0      0    100      0      0      3      3      7      5      2      0    
   17 Simone       21      7     13      1     33     62      5     38    1.81    152    173    -21      5    
@@ -30,7 +30,8 @@
   27 Marcos        2      1      1      0     50     50      0      3    1.5     14     16     -2      0    
   97 Ospite1        3      2      1      0     67     33      0      6      2     24     22      2      0    
   98 Ospite2       2      0      2      0      0    100      0      4      2     15     18     -3      1    
-  99 Ospite3       4      1      2      1     25     50     25      2    0.5     29     31     -2      1    
+  99 Ospite3       5      2      2      1     40     40     20      2    0.4     38     37      1      1    
+    
     
     
     
@@ -2974,4 +2975,49 @@ Statistiche aggiornate: Tecnica.
   98 Franco      85  76  80  75  79  B  Att  
   98 Antonio     81  76  76  69  76  B  Fas  
   99 Ospite3     65  69  69  70  68  D  Nan  
+
+26/02/23
+Squadra A gol= 9              		   Squadra B gol= 6
+Davide    gol= 5  (A) [86] {Att}           Yun       gol= 2  (A) [80] {Fas}           
+Fabian    gol= 2  (A) [81] {Fas}           Fabris            (B) [77] {Fas}           
+Ospite3           (D) [68] {Nan}           Gianlu    gol= 4  (D) [65] {Dif}           
+Carmine   gol= 1  (D) [66] {Att}           Dario             (D) [65] {Fas}           
+Teffa     gol= 1  (F) [59] {Att}           Gio               (D) [65] {Dif}           
+
+Corsa:-12     Tecnica:21     Attacco:23     Difesa:3     Totale:35     
+
+Statistiche aggiornate: Corsa, Difesa, Tecnica.
+
+  Giocatore      Vel Tec Att Dif Tot Cl Rol
+
+  01 Yun         85  74  79  78  79  B  Fas  
+  02 Liber       77  71  71  71  73  C  Fas  
+  03 Gio         64  61  61  70  64  E  Dif  
+  04 Miky        62  74  72  73  70  C  Dif  
+  05 Paolo       67  79  75  77  75  B  Dif  
+  06 Teffa       58  62  61  58  60  E  Att  
+  07 Davide      87  87  87  86  87  A  Att  
+  08 Fabian      88  77  80  81  82  A  Fas  
+  09 Dario       75  56  62  62  64  E  Fas  
+  10 Carmine     66  65  70  65  67  D  Att  
+  11 Gianlu      62  61  63  70  64  E  Dif  
+  12 Jacca       79  67  65  59  68  D  Att  
+  13 Danicas     66  71  73  74  71  C  Fas  
+  14 Fabris      81  78  79  68  77  B  Fas  
+  15 Ema         67  80  79  71  74  C  Att  
+  16 Jose        65  61  64  60  63  E  Att  
+  17 Simone      67  77  77  70  73  C  Att  
+  18 Lorenzo     71  57  61  57  62  E  Fas  
+  19 Gabriele    82  93  91  82  87  A  Att  
+  20 Mereu       74  85  80  70  77  B  Att  
+  21 Marco       77  68  72  74  73  C  Fas  
+  22 Riccardo    58  65  65  66  64  E  Dif  
+  23 Verrini     74  75  72  78  75  B  Dif  
+  24 Andrea      74  77  73  78  76  B  Dif  
+  25 Yaris       82  92  91  80  86  A  Att  
+  26 Dani        66  75  74  77  73  C  Dif  
+  27 Marcos      75  74  74  75  75  B  Att  
+  98 Franco      85  76  80  75  79  B  Att  
+  98 Antonio     81  76  76  69  76  B  Fas  
+  99 Ospite3     66  70  69  71  69  D  Nan  
 
